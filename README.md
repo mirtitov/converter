@@ -89,7 +89,7 @@ WeightConverter extends BaseConverter<WeightUnit>
 
 ---
 
-## Цель для учеников
+## Цель
 
 Разобраться:
 - как работает наследование и дженерики в Java
