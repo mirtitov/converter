@@ -1,4 +1,4 @@
-# Unit Converter — Техническое задание
+# Unit Converter 
 
 ## Цель проекта
 
